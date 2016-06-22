@@ -14,7 +14,8 @@
   display: inline-block;
   -webkit-appearance: none;
   user-select: none;
-  outline: none; }
+  outline: none;
+  cursor: pointer; }
   .ios-switch:before {
     content: '';
     width: 29px;

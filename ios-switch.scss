@@ -21,6 +21,7 @@ $checkedColor: #64bd63;
   -webkit-appearance: none;
   user-select: none;
   outline: none;
+  cursor: pointer;
   &:before {
     content: '';
     width: 29px;

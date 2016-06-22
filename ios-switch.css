@@ -35,6 +35,8 @@
     background-color: #64bd63; }
     .ios-switch:checked:before {
       left: 21px; }
+  .ios-switch:focus, .ios-switch:active {
+    outline: none; }
   .ios-switch.ios-switch-animbg {
     transition: background-color ease 0.4s; }
     .ios-switch.ios-switch-animbg:before {

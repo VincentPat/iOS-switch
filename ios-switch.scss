@@ -40,6 +40,9 @@ $checkedColor: #64bd63;
       left: 21px;
     }
   }
+  &:focus,&:active {
+    outline: none;
+  }
   &.ios-switch-animbg {
     transition: background-color ease $duration;
     &:before {
